@@ -1,0 +1,23 @@
+.container {
+    width: 600px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgba(36, 193, 233, 0.767);
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.second {
+    background-color: salmon;
+}
+.box {
+    width: 40px;
+    height: 40px;
+}
+.b1 { background-color: rgba(36, 193, 233, 0.767);}
+.b2 { background-color: purple;}
